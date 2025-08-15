@@ -1,0 +1,8 @@
+# Teszt fájlok
+.szenny/
+
+#környezeti változók
+.env
+
+# Valós adatok
+Gyali_meki.db
